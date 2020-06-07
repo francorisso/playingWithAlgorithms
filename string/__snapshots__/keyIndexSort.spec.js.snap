@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`keyIndexSort should sort by key 1`] = `
+Array [
+  Object {
+    "key": 1,
+    "name": "A",
+  },
+  Object {
+    "key": 1,
+    "name": "D",
+  },
+  Object {
+    "key": 1,
+    "name": "A2",
+  },
+  Object {
+    "key": 1,
+    "name": "A6",
+  },
+  Object {
+    "key": 1,
+    "name": "A8",
+  },
+  Object {
+    "key": 2,
+    "name": "B",
+  },
+  Object {
+    "key": 2,
+    "name": "A4",
+  },
+  Object {
+    "key": 2,
+    "name": "A5",
+  },
+  Object {
+    "key": 3,
+    "name": "C",
+  },
+  Object {
+    "key": 3,
+    "name": "F",
+  },
+  Object {
+    "key": 3,
+    "name": "A7",
+  },
+  Object {
+    "key": 4,
+    "name": "A3",
+  },
+  Object {
+    "key": 4,
+    "name": "A3",
+  },
+]
+`;
